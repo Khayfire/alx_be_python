@@ -1,4 +1,4 @@
-current_age = int(input("how old are you "))
+current_age = int(input("how old are you?"))
 
 future_age = current_age + 27
 

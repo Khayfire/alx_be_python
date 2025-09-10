@@ -1,4 +1,4 @@
-hours = 2
+hours = int(input("2 : "))
 
 seconds = hours * 3600
 

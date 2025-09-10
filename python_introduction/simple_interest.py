@@ -4,4 +4,4 @@ time = 3
 
 interest = 1000 * 0.05 * 3
 
-print(f"the simple interest is {simple_interest}")
+print(f"the simple interest is {interest}")
